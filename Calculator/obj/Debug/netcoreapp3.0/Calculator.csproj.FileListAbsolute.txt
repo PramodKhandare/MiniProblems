@@ -1,0 +1,11 @@
+E:\GitHubProjects\MiniProblems\Calculator\bin\Debug\netcoreapp3.0\Calculator.exe
+E:\GitHubProjects\MiniProblems\Calculator\bin\Debug\netcoreapp3.0\Calculator.deps.json
+E:\GitHubProjects\MiniProblems\Calculator\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.json
+E:\GitHubProjects\MiniProblems\Calculator\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.dev.json
+E:\GitHubProjects\MiniProblems\Calculator\bin\Debug\netcoreapp3.0\Calculator.dll
+E:\GitHubProjects\MiniProblems\Calculator\bin\Debug\netcoreapp3.0\Calculator.pdb
+E:\GitHubProjects\MiniProblems\Calculator\obj\Debug\netcoreapp3.0\Calculator.csprojAssemblyReference.cache
+E:\GitHubProjects\MiniProblems\Calculator\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfoInputs.cache
+E:\GitHubProjects\MiniProblems\Calculator\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfo.cs
+E:\GitHubProjects\MiniProblems\Calculator\obj\Debug\netcoreapp3.0\Calculator.dll
+E:\GitHubProjects\MiniProblems\Calculator\obj\Debug\netcoreapp3.0\Calculator.pdb
