@@ -1,0 +1,11 @@
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\bin\Debug\netcoreapp3.0\LiftManagementSystem.exe
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\bin\Debug\netcoreapp3.0\LiftManagementSystem.deps.json
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\bin\Debug\netcoreapp3.0\LiftManagementSystem.runtimeconfig.json
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\bin\Debug\netcoreapp3.0\LiftManagementSystem.runtimeconfig.dev.json
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\bin\Debug\netcoreapp3.0\LiftManagementSystem.dll
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\bin\Debug\netcoreapp3.0\LiftManagementSystem.pdb
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\obj\Debug\netcoreapp3.0\LiftManagementSystem.csprojAssemblyReference.cache
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\obj\Debug\netcoreapp3.0\LiftManagementSystem.AssemblyInfoInputs.cache
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\obj\Debug\netcoreapp3.0\LiftManagementSystem.AssemblyInfo.cs
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\obj\Debug\netcoreapp3.0\LiftManagementSystem.dll
+E:\GitHubProjects\MiniProblems\LiftManagementSystem\obj\Debug\netcoreapp3.0\LiftManagementSystem.pdb
